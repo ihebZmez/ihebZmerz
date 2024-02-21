@@ -19,34 +19,34 @@ I'm an indie Full-Stack developer that can work on Front-End or Back-End, script
 
 ### 🧰 Languages and Tools
 <div>
-   <img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-   <img align="left" alt="Spring" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-   <img align="left" alt="TypeScript" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-   <img align="left" alt="Angular" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
-   <img align="left" alt="Git" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-   <img align="left" alt="Linux" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-   <img align="left" alt="HTML" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-   <img align="left" alt="CSS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-   <img align="left" alt="JavaScript" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-   <img align="left" alt="React" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-   <img align="left" alt="NodeJS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-   <img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-   <img align="left" alt="C++" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-   <img align="left" alt="GitHub" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-   <img align="left" alt="Flutter" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flutter.svg" />
+   <img align="left" alt="Java" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+   <img align="left" alt="Spring" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+   <img align="left" alt="TypeScript" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+   <img align="left" alt="Angular" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
+   <img align="left" alt="Git" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+   <img align="left" alt="Linux" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+   <img align="left" alt="HTML" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+   <img align="left" alt="CSS" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+   <img align="left" alt="JavaScript" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+   <img align="left" alt="React" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+   <img align="left" alt="NodeJS" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+   <img align="left" alt="Python" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+   <img align="left" alt="C++" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+   <img align="left" alt="GitHub" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+   <img align="left" alt="Flutter" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flutter.svg" />
 
-   <img align="left" alt="Oracle" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/oracle.svg" />
-   <img align="left" alt="Mongodb" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mongodb.svg" />
-   <img align="left" alt="Mysql" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" />
-   <img align="left" alt="Docker" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/docker.svg" />
-   <img align="left" alt="PowerShell" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/powershell.svg" />
-   <img align="left" alt="Ansible" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ansible.svg" />
-   <img align="left" alt="Jenkins" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jenkins.svg" />
-   <img align="left" alt="ApacheMaven" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/apachemaven.svg" />
-   <img align="left" alt="Node-Dot-Js" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" />
-   <img align="left" alt="Php" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/php.svg" />
-   <img align="left" alt="Dot-Net" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dot-net.svg" />
-   <img align="left" alt="WordPress" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wordpress.svg" />
+   <img align="left" alt="Oracle" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/oracle.svg" />
+   <img align="left" alt="Mongodb" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mongodb.svg" />
+   <img align="left" alt="Mysql" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" />
+   <img align="left" alt="Docker" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/docker.svg" />
+   <img align="left" alt="PowerShell" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/powershell.svg" />
+   <img align="left" alt="Ansible" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ansible.svg" />
+   <img align="left" alt="Jenkins" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jenkins.svg" />
+   <img align="left" alt="ApacheMaven" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/apachemaven.svg" />
+   <img align="left" alt="Node-Dot-Js" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" />
+   <img align="left" alt="Php" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/php.svg" />
+   <img align="left" alt="Dot-Net" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dot-net.svg" />
+   <img align="left" alt="WordPress" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wordpress.svg" />
 </div>
 
 <br />
