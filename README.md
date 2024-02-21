@@ -76,6 +76,9 @@ I'm an indie Full-Stack developer that can work on Front-End or Back-End, script
 
 #
 
+<br />
+<br />
+
 <details>
  <summary><h3>👨‍💻 My Coding Journey</h3></summary>
    I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, linux, theory. And all the while, teaching myself iOS development with a dream to build my own app, but that soon got overshadowed by my desire to excel in Java and JavaScript. A desire that landed me a full-stack software engineering job before and after my graduation. However, I had another desire I had been pursuing throughout this time.
