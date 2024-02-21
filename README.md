@@ -77,6 +77,7 @@ I'm an indie Full-Stack developer that can work on Front-End or Back-End, script
 #
 
 <br />
+---
 <br />
 
 <details>
