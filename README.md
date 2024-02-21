@@ -39,7 +39,7 @@ I'm an indie Full-Stack developer that can work on Front-End or Back-End, script
 #
 
 ### 📺 Latest YouTube Videos
-
+<!--
 <!-- BEGIN YOUTUBE-CARDS -->
 [![The Data Structure You Use Matters a Lot](https://ytcards.demolab.com/?id=VpnZnFUHhIU&title=The+Data+Structure+You+Use+Matters+a+Lot&lang=en&timestamp=1707836432&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=395 "The Data Structure You Use Matters a Lot")](https://www.youtube.com/watch?v=VpnZnFUHhIU)
 [![Top Paying Companies for Software Engineers](https://ytcards.demolab.com/?id=cIvduLKs5uY&title=Top+Paying+Companies+for+Software+Engineers&lang=en&timestamp=1707058821&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=32 "Top Paying Companies for Software Engineers")](https://www.youtube.com/watch?v=cIvduLKs5uY)
@@ -50,7 +50,7 @@ I'm an indie Full-Stack developer that can work on Front-End or Back-End, script
 <!-- END YOUTUBE-CARDS -->
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
-
+-->
 #
 
 ### 📊 Stats
