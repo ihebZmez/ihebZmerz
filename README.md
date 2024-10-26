@@ -80,18 +80,18 @@ I'm an indie Full-Stack developer that can work on Front-End or Back-End, script
 
 <br />
 <p>
-   👨‍💻 MERN Stack Developer: Proficient in MongoDB, Express.js, React, and Node.js.
-   🎨 Frontend: Strong in HTML5, CSS3, SASS, SCSS, JavaScript, Tailwind CSS, Bootstrap, Material UI, Ant Design, Chakra UI, Next.js and React.js.
-   🚀 Backend: Experience with Express.js, Node.js, and MongoDB for building RESTful APIs.
-🔄 State Management: Knowledgeable in Redux for large-scale React applications.
-📱 UI/UX: Familiar with Figma and Adobe XD for design.
-📝 Version Control: Git/GitHub proficiency.
-☁️ Deployment: Experienced in deploying on AWS, Heroku, Hostinger and Netlify.
-✔️ Testing: Familiar with Jest, Mocha, and React Testing Library.
-🔍 Problem-solving: Strong debugging skills.
-💬 Communication: Effective team collaboration.
-   
-<img align="left" alt="WordPress" width="45px" style="padding-right:10px;" src="[https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wordpress.svg](https://camo.githubusercontent.com/b71ea022ef4a40eba93c05ed1846d2e525d9034a2c8802c5d83ba314028e7ff3/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d73756e696c39383133267468656d653d7261646963616c26686964655f626f726465723d66616c736526696e636c7564655f616c6c5f636f6d6d6974733d66616c736526636f756e745f707269766174653d66616c7365266c61796f75743d636f6d70616374)" />
+   <ul>
+         <li>👨‍💻 MERN Stack Developer: Proficient in MongoDB, Express.js, React, and Node.js.</li>
+         <li>🎨 Frontend: Strong in HTML5, CSS3, SASS, SCSS, JavaScript, Tailwind CSS, Bootstrap, Material UI, Ant Design, Chakra UI, Next.js and React.js.</li>
+         <li>🚀 Backend: Experience with Express.js, Node.js, and MongoDB for building RESTful APIs.</li>
+         <li>🔄 State Management: Knowledgeable in Redux for large-scale React applications.</li>
+         <li>📱 UI/UX: Familiar with Figma and Adobe XD for design.</li>
+         <li>📝 Version Control: Git/GitHub proficiency.</li>
+         <li>☁️ Deployment: Experienced in deploying on AWS, Heroku, Hostinger and Netlify.</li>
+         <li>✔️ Testing: Familiar with Jest, Mocha, and React Testing Library.</li>
+         <li>🔍 Problem-solving: Strong debugging skills.</li>
+         <li>💬 Communication: Effective team collaboration.</li>
+      </ul>
 </p>
 <details>
  <summary><h3>👨‍💻 My Coding Journey</h3></summary>
