@@ -2,7 +2,7 @@
 
 **`CodeJester (Developer "Back-End,Front-End,Full-Stack" / Scripting Ballet / Pipeline CI/CD Maestro)`**
 
-I'm an indie Full-Stack developer that can work on Front-End or Back-End, scripting automated and CI/CD implementor building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All my freelance project is built the same way, from ideation and planning. I publish that content on my parkour on "(https://iheb-zm-portfolio.netlify.app/)".
+I'm an indie Full-Stack developer that can work on Front-End or Back-End, scripting automated and CI/CD implementor building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All my freelance project is built the same way, from ideation and planning. I publish that content on my parkour on "(https://portfolio-iheb-zm.vercel.app/)" OR "(https://iheb-zm-portfolio.netlify.app/)".
 <!--
    <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
